@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(C:/Keil_v5/ARM/ARMCC/bin/armcc.exe *)",
+      "Bash(python *)",
+      "Bash(cmd.exe *)",
+      "Bash(unify_builder *)"
+    ]
+  }
+}
